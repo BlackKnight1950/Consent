@@ -1,0 +1,16 @@
+{
+  "name": "cch-consent-forms",
+  "version": "1.0.0",
+  "description": "Cook County Health — Consent Form Library",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0"
+  }
+}
